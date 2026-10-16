@@ -1,0 +1,6 @@
+interface:
+  display_name: "Vibe 知识大赏"
+  short_description: "Plan, build, render and deliver a 抖音 Vibe 知识大赏 knowledge animation"
+  default_prompt: "Use $vibe-knowledge to make a new Vibe 知识大赏 episode."
+policy:
+  allow_implicit_invocation: true

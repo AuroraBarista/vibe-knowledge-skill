@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+.env
+.env.*
+episodes/
+exports/
+qa/
+*.mp4
+*.wav
